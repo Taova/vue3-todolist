@@ -1,6 +1,6 @@
 # Todolist app
 
-A Vue 3 pet project implementing a simple Todo List to explore the framework’s core features:
+A Vue 3 pet project implementing a simple Todo List to explore updates:
 - reactivity,
 - components,
 - the Composition API,
